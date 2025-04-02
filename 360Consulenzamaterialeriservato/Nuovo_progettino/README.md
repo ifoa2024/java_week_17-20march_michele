@@ -57,5 +57,18 @@ in java si puo estendere una sola classe ma implementare piu interfacce.
 metodi e attributi statici:
 -non dipendono assolutamente dall'esistenza dell'oggetto di una classe specifica ma vengono chiamati direttamente tramite le stessa classe.
 
+hash -> in programma deve capire come gestire i dati e i duplicati, quindi bloccare in caso in cui si inseriscono dati pubblicati.
+Si basa su equals e hashCode
+equals vede se due oggetti sono uguali, controllando le locazioni di memoria;
+hashCode invece fa un operazione su un dato restituendo un numero che indica la cella della tabella dove deve finire il dato. se gli hash del dato sono uguali, avviene una collisione e capisce che sono uguali.
+
+
+compareTo viene usato per vedere a livello lessicografico se un numero è piu grande di un altro, restituisce 0 se i numeri sono uguali, 1 se il secondo è piu grande del primo o -1 se il primo e piu grande del primo
+
+una classe generica può usare diversi tipi e non uno preimpostato
+
+con le generics saliamo ancora di piu di astrazione.
+
+
 
 
