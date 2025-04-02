@@ -69,6 +69,25 @@ una classe generica può usare diversi tipi e non uno preimpostato
 
 con le generics saliamo ancora di piu di astrazione.
 
+---------------------------------------
 
+Cosa rende java uno dei linguaggi piu usati al modo?
+-il fatto che grazie alla jvm puo essere eseguito ovunque
 
+typesystem java
+-fortemente tipizzato e statico
 
+in java tutto è un oggetto, anche stringhe e array
+-stringa:concatenazione di caratteri
+
+object oriented
+-facilita il principio del don't repeat yourself
+
+ereditarietà:
+-la figlia eredita con exteds ClassePadre
+
+polimorfismo:
+-capacità di far comportare la classe in modi diversi con overloader e overriding
+
+una classe astratta
+-una classe non istanziata che viene utilizzata da altre classi. si tratta di una classe molto generica che contiene metodi astratti e concreti. 
