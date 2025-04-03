@@ -70,7 +70,7 @@ una classe generica può usare diversi tipi e non uno preimpostato
 con le generics saliamo ancora di piu di astrazione.
 
 ---------------------------------------
-
+DOMANDE UTILI
 Cosa rende java uno dei linguaggi piu usati al modo?
 -il fatto che grazie alla jvm puo essere eseguito ovunque
 
