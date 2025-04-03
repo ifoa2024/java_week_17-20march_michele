@@ -92,6 +92,8 @@ polimorfismo:
 una classe astratta
 -una classe non istanziata che viene utilizzata da altre classi. si tratta di una classe molto generica che contiene metodi astratti e concreti. 
 
+------------------------------------------------
+
 Programmazione funzionale:
 -non è il programmatore e definire i passaggi logici dell'algoritmo
 -si basa principalmente sul concetto di funzioni pure
