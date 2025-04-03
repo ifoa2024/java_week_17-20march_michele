@@ -11,7 +11,7 @@ public class App {
         Animal lion = new Animal("Lion", "Mammal", "Savannah");
         Animal cat = new Animal("Cat", "Mammal", "House");
         Animal bird = new Animal("Bird", "Bird", "Sky");
-        Animal tiger = new Animal("Tiger", "Mammal", "Jungle");
+        Animal tiger = new Animal("Tiger", "Mammal", "Jungle");     
         Animal dog = new Animal("Dog", "Mammal", "House");
 
         List<Animal> zoo = new ArrayList<>(List.of(lion, cat, bird, tiger, dog));
